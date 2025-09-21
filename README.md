@@ -24,4 +24,4 @@ Try it yourself:
 
 ## 🚀 Running the Bot
 ```bash
-python main.py
+python bot.py
