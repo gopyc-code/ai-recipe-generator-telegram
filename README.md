@@ -15,11 +15,10 @@ This Telegram bot is a client application for the [AI Recipe Generator API](http
 
 Try it yourself:
 
-![sandwich](https://mega.nz/file/WyIhlJrR#GhCe_BKuXqzI6BB2p9ZQTyWsux6e2BqW9C6DE4hv1vU)
-![borscht](https://mega.nz/file/v7gFkQJR#JBOG29kecgcgzv4IZWsZdvdNi3JEY6oUvy5k1IG3nr8)
-![pizza](https://mega.nz/file/iugSFJIT#3N5b3sI2q6s0zcaef4R3qFRE6aMQEyjt8IrjR90ORpk)
-![pilaf](https://mega.nz/file/SjAjwRRa#IYk2DymyX9BDO9fRFuHSJy-2sCJpWfwdBYP8Yk_og-4)
-
+<img width="682" height="817" alt="Screenshot 2025-09-21 162042" src="https://github.com/user-attachments/assets/f22643dd-3168-4cc5-90ae-5e8e13c7fbbf" />
+<img width="407" height="855" alt="Screenshot 2025-09-21 162303" src="https://github.com/user-attachments/assets/a82c4192-beaf-4e84-a37f-04f73eb64b7b" />
+<img width="402" height="860" alt="Screenshot 2025-09-21 162605" src="https://github.com/user-attachments/assets/2e15a1bd-1b0b-45dd-8824-dc63035c5305" />
+<img width="403" height="903" alt="Screenshot 2025-09-21 162607" src="https://github.com/user-attachments/assets/0141aba1-abd1-4c15-8732-2985d49bdc5a" />
 
 ## 🚀 Running the Bot
 ```bash
