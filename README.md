@@ -13,8 +13,6 @@ This Telegram bot is a client application for the [AI Recipe Generator API](http
 
 ## 🖼️ Examples
 
-Try it yourself:
-
 <div style="display: flex; align-items: flex-start;">
     <img style="height: 240px; width: auto;" alt="Screenshot 2025-09-21 162042" src="https://github.com/user-attachments/assets/f22643dd-3168-4cc5-90ae-5e8e13c7fbbf" />
     <img style="height: 240px; width: auto;" alt="Screenshot 2025-09-21 162303" src="https://github.com/user-attachments/assets/a82c4192-beaf-4e84-a37f-04f73eb64b7b" />
