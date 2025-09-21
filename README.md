@@ -15,12 +15,12 @@ This Telegram bot is a client application for the [AI Recipe Generator API](http
 
 Try it yourself:
 
-<p align="center">
-    <img src="https://github.com/user-attachments/assets/f22643dd-3168-4cc5-90ae-5e8e13c7fbbf" width="200" />
-    <img src="https://github.com/user-attachments/assets/a82c4192-beaf-4e84-a37f-04f73eb64b7b" width="200" />
-    <img src="https://github.com/user-attachments/assets/2e15a1bd-1b0b-45dd-8824-dc63035c5305" width="200" />
-    <img src="https://github.com/user-attachments/assets/0141aba1-abd1-4c15-8732-2985d49bdc5a" width="200" />
-</p>
+<div style="display: flex; align-items: flex-start;">
+    <img style="height: 240px; width: auto;" alt="Screenshot 2025-09-21 162042" src="https://github.com/user-attachments/assets/f22643dd-3168-4cc5-90ae-5e8e13c7fbbf" />
+    <img style="height: 240px; width: auto;" alt="Screenshot 2025-09-21 162303" src="https://github.com/user-attachments/assets/a82c4192-beaf-4e84-a37f-04f73eb64b7b" />
+    <img style="height: 240px; width: auto;" alt="Screenshot 2025-09-21 162605" src="https://github.com/user-attachments/assets/2e15a1bd-1b0b-45dd-8824-dc63035c5305" />
+    <img style="height: 240px; width: auto;" alt="Screenshot 2025-09-21 162607" src="https://github.com/user-attachments/assets/0141aba1-abd1-4c15-8732-2985d49bdc5a" />
+</div>
 
 ## 🚀 Running the Bot
 ```bash
