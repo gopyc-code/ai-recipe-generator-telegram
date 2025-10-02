@@ -6,12 +6,12 @@ AI Recipe Generator Telegram Bot delivers personalised AI-generated recipes in c
 
 This Telegram bot is a client application for the [AI Recipe Generator API](https://github.com/gopyc-code/ai-recipe-generator-api). Users interact with the bot to request recipes, and the bot fetches structured recipe data (ingredients, instructions, calories, cuisine, health benefits, and images) from the API and presents it in chat.
 
-## 📦 Features
+## Features
 - Simple Telegram interface for recipe requests  
 - Uses user preferences and dietary restrictions  
 - Returns formatted recipes with steps and images  
 
-## 🖼️ Examples
+## Examples
 
 <div style="display: flex; align-items: flex-start;">
     <img style="height: 240px; width: auto;" alt="Screenshot 2025-09-21 162042" src="https://github.com/user-attachments/assets/f22643dd-3168-4cc5-90ae-5e8e13c7fbbf" />
@@ -20,6 +20,6 @@ This Telegram bot is a client application for the [AI Recipe Generator API](http
     <img style="height: 240px; width: auto;" alt="Screenshot 2025-09-21 162607" src="https://github.com/user-attachments/assets/0141aba1-abd1-4c15-8732-2985d49bdc5a" />
 </div>
 
-## 🚀 Running the Bot
+## Running the Bot
 ```bash
 python bot.py
